@@ -1,0 +1,771 @@
+
+Mon Jan 30 23:49:47 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2007ms
+
+
+Mon Jan 30 23:51:25 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=375 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=260 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=359 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 260.898/331.950/375.142/50.629 ms
+
+Mon Jan 30 23:52:54 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=82.4 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=81.5 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.2 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 78.252/80.763/82.468/1.813 ms
+
+Mon Jan 30 23:54:23 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.2 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.2 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.5 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 78.250/78.998/80.203/0.919 ms
+
+Mon Jan 30 23:55:51 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.2 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=82.2 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.6 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 79.677/80.700/82.200/1.132 ms
+
+Mon Jan 30 23:57:19 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.1 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=80.6 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.5 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 79.522/80.091/80.645/0.563 ms
+
+Mon Jan 30 23:58:47 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.7 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=77.7 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=82.3 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.796/79.627/82.336/1.954 ms
+
+Tue Jan 31 00:00:14 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=81.2 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=76.7 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=98.0 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 76.757/85.347/98.069/9.178 ms
+
+Tue Jan 31 00:01:42 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.1 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.2 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=84.1 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 78.165/80.188/84.141/2.814 ms
+
+Tue Jan 31 00:04:04 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=191 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=79.2 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=93.1 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 79.289/121.435/191.913/50.153 ms
+
+Tue Jan 31 00:05:33 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.3 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=80.8 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.1 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 78.347/79.477/80.893/1.083 ms
+
+Tue Jan 31 00:07:01 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=81.2 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=76.7 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 76.745/78.710/81.220/1.881 ms
+
+Tue Jan 31 00:08:35 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=130 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=169 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=89.3 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 89.301/129.922/169.816/32.874 ms
+
+Tue Jan 31 00:10:08 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=128 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=217 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=111 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 111.608/152.554/217.248/46.282 ms
+
+Tue Jan 31 00:11:41 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=79.1 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=142 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=82.6 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 79.173/101.305/142.058/28.852 ms
+
+Tue Jan 31 00:13:19 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=128 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=111 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=156 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 111.378/132.235/156.516/18.590 ms
+
+Tue Jan 31 00:14:58 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=96.5 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=354 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=109 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 96.578/186.968/354.578/118.640 ms
+
+Tue Jan 31 00:16:46 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=213 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=348 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=350 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 213.647/304.090/350.608/63.961 ms
+
+Tue Jan 31 00:18:23 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=666 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=89.5 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=1022 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 89.544/593.071/1022.674/384.518 ms
+
+Tue Jan 31 00:20:07 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=3225 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=2225 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=1226 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 1226.877/2225.905/3225.315/815.860 ms, pipe 3
+
+Tue Jan 31 00:21:56 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=171 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=1355 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=347 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2008ms
+rtt min/avg/max/mdev = 171.451/624.814/1355.265/521.496 ms, pipe 2
+
+Tue Jan 31 00:23:35 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=704 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=484 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=564 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 484.528/584.553/704.137/90.715 ms
+
+Tue Jan 31 00:25:12 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=819 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=357 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=375 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 357.148/517.310/819.266/213.647 ms
+
+Tue Jan 31 00:26:53 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=273 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=183 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=133 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 133.210/196.867/273.759/58.139 ms
+
+Tue Jan 31 00:28:37 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=1490 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=481 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 2 received, 33% packet loss, time 2009ms
+rtt min/avg/max/mdev = 481.890/986.118/1490.346/504.228 ms, pipe 2
+
+Tue Jan 31 00:30:24 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=757 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=352 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=435 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 352.482/515.268/757.714/174.761 ms
+
+Tue Jan 31 00:32:10 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=1608 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=609 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=634 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 609.293/950.693/1608.227/465.061 ms, pipe 2
+
+Tue Jan 31 00:33:41 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=161 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=654 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=97.0 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 97.058/304.288/654.656/249.125 ms
+
+Tue Jan 31 00:35:43 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=221 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=140 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=937 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 140.589/433.306/937.982/358.379 ms
+
+Tue Jan 31 00:37:15 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=2080 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=1081 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=262 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 262.409/1141.276/2080.354/743.393 ms, pipe 3
+
+Tue Jan 31 00:38:56 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=1469 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=473 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=488 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 473.881/810.613/1469.012/465.599 ms, pipe 2
+
+Tue Jan 31 00:40:44 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=688 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=466 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=291 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 291.437/482.318/688.604/162.508 ms
+
+Tue Jan 31 00:42:40 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=267 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=849 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=1396 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 267.156/837.612/1396.213/461.012 ms
+
+Tue Jan 31 00:44:17 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=353 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=570 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=126 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 126.485/350.399/570.775/181.397 ms
+
+Tue Jan 31 00:45:45 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=105 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=91.4 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=84.6 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 84.606/93.874/105.531/8.711 ms
+
+Tue Jan 31 00:47:13 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=105 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=97.8 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=76.5 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 76.535/93.270/105.379/12.226 ms
+
+Tue Jan 31 00:48:41 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.9 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.8 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.3 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.386/78.412/78.981/0.726 ms
+
+Tue Jan 31 00:50:14 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=77.4 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.4 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.2 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.264/77.709/78.400/0.495 ms
+
+Tue Jan 31 00:51:42 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=89.5 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=77.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.7 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 77.113/81.464/89.549/5.731 ms
+
+Tue Jan 31 00:53:09 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=136 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=77.7 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.2 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.799/97.719/136.124/27.162 ms
+
+Tue Jan 31 00:54:38 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.1 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=83.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=86.9 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 80.113/83.412/86.976/2.817 ms
+
+Tue Jan 31 00:56:06 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=77.4 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=80.9 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 2 received, 33% packet loss, time 2008ms
+rtt min/avg/max/mdev = 77.444/79.200/80.956/1.756 ms
+
+Tue Jan 31 00:57:35 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.6 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=76.6 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 2 received, 33% packet loss, time 2003ms
+rtt min/avg/max/mdev = 76.612/78.642/80.672/2.030 ms
+
+Tue Jan 31 00:59:23 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=297 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=406 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=282 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 282.812/328.984/406.822/55.357 ms
+
+Tue Jan 31 01:00:53 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.6 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=83.5 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=83.9 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 80.616/82.701/83.903/1.498 ms
+
+Tue Jan 31 01:02:22 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=79.8 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=85.2 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=86.0 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 79.820/83.682/86.009/2.749 ms
+
+Tue Jan 31 01:03:50 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2000ms
+
+
+Tue Jan 31 01:05:28 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.6 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=81.9 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.4 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 78.635/80.011/81.986/1.432 ms
+
+Tue Jan 31 01:06:56 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=81.8 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=83.8 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.2 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.254/80.981/83.856/2.771 ms
+
+Tue Jan 31 01:08:25 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.0 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.4 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 78.023/78.534/79.452/0.650 ms
+
+Tue Jan 31 01:09:53 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=82.6 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=84.9 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.2 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 78.249/81.950/84.952/2.780 ms
+
+Tue Jan 31 01:11:21 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=82.3 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=279 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=381 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 82.368/247.772/381.421/124.137 ms
+
+Tue Jan 31 01:12:49 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=90.1 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=81.2 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=84.0 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 81.229/85.133/90.149/3.725 ms
+
+Tue Jan 31 01:14:16 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=89.1 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=80.6 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.0 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 79.038/82.921/89.117/4.433 ms
+
+Tue Jan 31 01:15:44 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=77.9 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=79.4 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.4 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.907/78.946/79.469/0.803 ms
+
+Tue Jan 31 01:17:11 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=82.8 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=79.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.3 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.353/79.777/82.833/2.292 ms
+
+Tue Jan 31 01:18:41 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=223 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=1366 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=359 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2008ms
+rtt min/avg/max/mdev = 223.083/649.817/1366.806/510.040 ms, pipe 2
+
+Tue Jan 31 01:20:13 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=248 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=212 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=287 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 212.019/249.234/287.656/30.893 ms
+
+Tue Jan 31 01:21:51 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=514 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=80.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.6 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 79.618/224.872/514.848/205.044 ms
+
+Tue Jan 31 01:23:18 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=77.0 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=86.9 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=84.9 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 77.039/83.002/86.998/4.310 ms
+
+Tue Jan 31 01:24:46 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=76.9 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.5 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 76.974/77.870/78.532/0.732 ms
+
+Tue Jan 31 01:26:13 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=91.8 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.9 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=83.7 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 78.922/84.838/91.879/5.349 ms
+
+Tue Jan 31 01:27:41 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.8 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=79.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.2 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.253/78.431/79.154/0.870 ms
+
+Tue Jan 31 01:29:08 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.2 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=80.4 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=76.7 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 76.739/78.476/80.463/1.547 ms
+
+Tue Jan 31 01:30:35 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.4 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=192 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.5 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 77.560/116.139/192.381/53.912 ms
+
+Tue Jan 31 01:32:03 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=82.8 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.3 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 78.131/79.756/82.811/2.161 ms
+
+Tue Jan 31 01:33:31 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=81.2 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.5 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=79.1 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 78.583/79.676/81.250/1.186 ms
+
+Tue Jan 31 01:34:58 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=77.6 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=83.2 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.9 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 77.650/79.961/83.268/2.410 ms
+
+Tue Jan 31 01:36:27 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=83.6 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=77.4 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.8 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.428/79.970/83.635/2.665 ms
+
+Tue Jan 31 01:37:55 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.2 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=80.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=81.2 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 80.133/80.561/81.293/0.614 ms
+
+Tue Jan 31 01:39:23 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=425 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=680 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=693 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 425.255/599.688/693.682/123.470 ms
+
+Tue Jan 31 01:40:51 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.3 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.3 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=83.0 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 78.346/79.916/83.048/2.226 ms
+
+Tue Jan 31 01:42:19 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.7 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=79.6 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.7 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.701/79.368/80.706/1.290 ms
+
+Tue Jan 31 01:43:46 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=80.1 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=79.6 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=82.7 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 79.650/80.866/82.758/1.394 ms
+
+Tue Jan 31 01:45:14 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.6 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.6 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.5 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 78.555/78.610/78.651/0.326 ms
+
+Tue Jan 31 01:46:41 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=78.8 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=78.6 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=77.5 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 77.568/78.371/78.887/0.619 ms
+
+Tue Jan 31 01:48:09 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=81.8 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=79.1 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=80.7 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 79.105/80.579/81.853/1.130 ms
+
+Tue Jan 31 01:49:42 EST 2017
+PING 24.105.29.75 (24.105.29.75) 56(84) bytes of data.
+64 bytes from 24.105.29.75: icmp_seq=1 ttl=46 time=79.9 ms
+64 bytes from 24.105.29.75: icmp_seq=2 ttl=46 time=84.2 ms
+64 bytes from 24.105.29.75: icmp_seq=3 ttl=46 time=78.9 ms
+
+--- 24.105.29.75 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 78.910/81.027/84.219/2.296 ms

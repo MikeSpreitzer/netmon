@@ -1,0 +1,766 @@
+
+Mon Jan 30 23:50:28 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=12.3 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=18.1 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=16.8 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 12.326/15.782/18.183/2.504 ms
+
+Mon Jan 30 23:51:56 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=11.0 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=10.7 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=14.2 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 10.711/12.008/14.262/1.602 ms
+
+Mon Jan 30 23:53:26 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=14.1 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=108 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=16.1 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 14.197/46.200/108.272/43.898 ms
+
+Mon Jan 30 23:54:54 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=19.1 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=18.3 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=18.0 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 18.000/18.517/19.186/0.495 ms
+
+Mon Jan 30 23:56:22 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=15.4 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=16.0 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=16.1 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 15.467/15.901/16.144/0.324 ms
+
+Mon Jan 30 23:57:49 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=16.9 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=15.3 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=57.4 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 15.310/29.898/57.440/19.486 ms
+
+Mon Jan 30 23:59:17 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=20.4 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=41.0 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=18.4 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 18.493/26.678/41.063/10.204 ms
+
+Tue Jan 31 00:00:45 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=14.7 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=13.9 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=13.3 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.396/14.008/14.711/0.540 ms
+
+Tue Jan 31 00:03:00 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=1295 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=287 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=613 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2009ms
+rtt min/avg/max/mdev = 287.550/732.359/1295.568/419.952 ms, pipe 2
+
+Tue Jan 31 00:04:35 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=192 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=194 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=765 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 192.666/384.214/765.449/269.575 ms
+
+Tue Jan 31 00:06:04 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=14.0 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=15.4 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=11.3 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 11.304/13.620/15.493/1.738 ms
+
+Tue Jan 31 00:07:31 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=13.2 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=13.7 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 2 received, 33% packet loss, time 2001ms
+rtt min/avg/max/mdev = 13.297/13.541/13.785/0.244 ms
+
+Tue Jan 31 00:09:11 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=24.6 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=15.4 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=39.8 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 15.473/26.665/39.883/10.068 ms
+
+Tue Jan 31 00:10:44 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=128 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=178 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=54.1 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 54.107/120.176/178.261/51.000 ms
+
+Tue Jan 31 00:12:17 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=13.8 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=18.1 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=15.2 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.892/15.774/18.154/1.775 ms
+
+Tue Jan 31 00:14:01 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=22.8 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=74.0 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=119 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 22.800/72.079/119.405/39.464 ms
+
+Tue Jan 31 00:15:43 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=814 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=72.7 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=176 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 72.712/354.389/814.176/327.856 ms
+
+Tue Jan 31 00:17:20 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=676 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=616 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=291 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 291.865/528.108/676.179/168.829 ms
+
+Tue Jan 31 00:19:03 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=2936 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=1928 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=928 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2008ms
+rtt min/avg/max/mdev = 928.450/1930.955/2936.172/819.652 ms, pipe 3
+
+Tue Jan 31 00:20:46 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=2371 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=1372 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=372 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 372.500/1372.114/2371.468/816.075 ms, pipe 3
+
+Tue Jan 31 00:22:29 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=1410 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=403 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 2 received, 33% packet loss, time 2007ms
+rtt min/avg/max/mdev = 403.769/907.227/1410.685/503.458 ms, pipe 2
+
+Tue Jan 31 00:24:13 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=303 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=559 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=169 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 169.724/344.083/559.075/161.528 ms
+
+Tue Jan 31 00:25:55 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=536 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=103 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=178 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 103.335/272.672/536.390/188.971 ms
+
+Tue Jan 31 00:27:32 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=316 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=327 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=905 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 316.005/516.284/905.133/274.999 ms
+
+Tue Jan 31 00:29:18 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=429 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 1 received, 66% packet loss, time 2000ms
+rtt min/avg/max/mdev = 429.909/429.909/429.909/0.000 ms
+
+Tue Jan 31 00:31:07 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=588 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=802 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=158 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 158.740/516.640/802.947/267.824 ms
+
+Tue Jan 31 00:32:43 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=17.0 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=97.3 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=178 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 17.033/97.506/178.109/65.759 ms
+
+Tue Jan 31 00:34:34 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=18.0 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=561 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=252 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 18.002/277.288/561.830/222.734 ms
+
+Tue Jan 31 00:36:15 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=199 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=377 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=619 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 199.634/398.868/619.385/172.022 ms
+
+Tue Jan 31 00:37:52 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=896 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=619 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=19.2 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 19.287/511.960/896.786/366.264 ms
+
+Tue Jan 31 00:39:46 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=113 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=91.3 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=303 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 91.323/169.302/303.435/95.264 ms
+
+Tue Jan 31 00:41:32 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=220 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=34.2 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=17.5 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 17.564/90.785/220.535/92.000 ms
+
+Tue Jan 31 00:43:13 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=24.7 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=319 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=493 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 24.703/279.228/493.595/193.519 ms
+
+Tue Jan 31 00:44:47 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=21.3 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=41.4 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=25.4 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 21.333/29.420/41.448/8.673 ms
+
+Tue Jan 31 00:46:16 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=37.0 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=17.1 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=37.9 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 17.139/30.708/37.921/9.602 ms
+
+Tue Jan 31 00:47:44 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=14.5 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=11.1 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=13.3 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 11.108/13.003/14.523/1.422 ms
+
+Tue Jan 31 00:49:11 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=13.9 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=17.7 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=14.7 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.957/15.469/17.745/1.638 ms
+
+Tue Jan 31 00:50:44 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=79.9 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=72.6 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=98.4 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 72.603/83.686/98.483/10.891 ms
+
+Tue Jan 31 00:52:12 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=11.2 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=12.2 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=12.0 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 11.210/11.840/12.229/0.458 ms
+
+Tue Jan 31 00:53:39 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=109 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=63.6 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=578 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 63.646/250.741/578.606/232.605 ms
+
+Tue Jan 31 00:55:09 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=15.9 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=14.4 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=14.6 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 14.479/15.029/15.924/0.638 ms
+
+Tue Jan 31 00:56:37 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=13.2 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=12.8 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=13.5 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 12.858/13.223/13.579/0.309 ms
+
+Tue Jan 31 00:58:06 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=15.7 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=12.1 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=14.4 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 12.114/14.118/15.778/1.515 ms
+
+Tue Jan 31 00:59:54 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=10.9 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=12.9 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=10.5 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 10.572/11.475/12.954/1.061 ms
+
+Tue Jan 31 01:01:24 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=14.2 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=97.4 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=196 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 14.221/102.675/196.367/74.453 ms
+
+Tue Jan 31 01:02:53 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=17.2 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=12.4 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=15.6 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 12.442/15.105/17.226/1.992 ms
+
+Tue Jan 31 01:04:30 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=16.4 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=16.4 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=18.0 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 16.410/16.966/18.036/0.771 ms
+
+Tue Jan 31 01:05:59 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=15.6 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=17.3 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=14.3 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 14.359/15.783/17.323/1.221 ms
+
+Tue Jan 31 01:07:28 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=15.9 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=14.2 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=13.3 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.321/14.488/15.918/1.085 ms
+
+Tue Jan 31 01:08:55 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=17.9 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=15.5 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=13.5 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.580/15.664/17.903/1.768 ms
+
+Tue Jan 31 01:10:24 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=13.5 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=17.9 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=21.7 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 13.568/17.766/21.787/3.361 ms
+
+Tue Jan 31 01:11:52 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=16.2 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=16.4 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=13.9 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.911/15.557/16.471/1.166 ms
+
+Tue Jan 31 01:13:19 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=12.0 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=11.1 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=11.5 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 11.107/11.581/12.063/0.409 ms
+
+Tue Jan 31 01:14:47 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=30.9 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=12.9 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=14.6 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 12.922/19.512/30.987/8.144 ms
+
+Tue Jan 31 01:16:14 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=11.1 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=17.5 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=13.9 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 11.118/14.218/17.562/2.638 ms
+
+Tue Jan 31 01:17:42 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=17.5 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=12.7 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=15.2 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 12.771/15.191/17.520/1.942 ms
+
+Tue Jan 31 01:19:15 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=20.3 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=40.8 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=110 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 20.356/57.239/110.499/38.580 ms
+
+Tue Jan 31 01:20:52 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=2444 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=1436 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=455 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2008ms
+rtt min/avg/max/mdev = 455.581/1445.649/2444.878/812.154 ms, pipe 3
+
+Tue Jan 31 01:22:21 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=16.4 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=12.0 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=12.8 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 12.046/13.771/16.429/1.911 ms
+
+Tue Jan 31 01:23:48 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=16.5 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=12.6 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=10.3 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 10.360/13.215/16.592/2.570 ms
+
+Tue Jan 31 01:25:16 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=20.7 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=10.4 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=9.87 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 9.874/13.695/20.771/5.008 ms
+
+Tue Jan 31 01:26:43 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=16.0 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=11.0 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=12.9 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 11.048/13.372/16.080/2.076 ms
+
+Tue Jan 31 01:28:11 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=16.4 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=14.8 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=13.5 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.592/14.966/16.409/1.155 ms
+
+Tue Jan 31 01:29:38 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=11.6 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=9.89 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=10.2 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 9.899/10.591/11.649/0.759 ms
+
+Tue Jan 31 01:31:06 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=11.7 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=10.9 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=11.0 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 10.911/11.248/11.772/0.394 ms
+
+Tue Jan 31 01:32:34 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=10.9 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=15.2 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=11.7 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 10.959/12.674/15.265/1.865 ms
+
+Tue Jan 31 01:34:01 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=21.1 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=18.1 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=17.9 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 17.948/19.081/21.104/1.438 ms
+
+Tue Jan 31 01:35:30 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=15.3 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=14.5 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=15.1 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 14.575/15.022/15.351/0.357 ms
+
+Tue Jan 31 01:36:57 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=13.3 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=10.9 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=14.7 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 10.903/13.030/14.791/1.613 ms
+
+Tue Jan 31 01:38:26 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=14.4 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=13.9 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=18.3 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 13.955/15.582/18.351/1.972 ms
+
+Tue Jan 31 01:39:54 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=20.9 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=16.3 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=16.1 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 16.152/17.821/20.955/2.217 ms
+
+Tue Jan 31 01:41:21 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=13.7 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=92.6 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=189 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.733/98.645/189.549/71.901 ms
+
+Tue Jan 31 01:42:49 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=17.0 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=13.8 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=19.9 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.873/16.941/19.904/2.467 ms
+
+Tue Jan 31 01:44:16 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=16.0 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=14.2 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=14.2 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 14.236/14.853/16.052/0.847 ms
+
+Tue Jan 31 01:45:44 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=15.4 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=19.6 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=24.9 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 15.438/20.007/24.924/3.882 ms
+
+Tue Jan 31 01:47:11 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.0.85) 56(84) bytes of data.
+64 bytes from 104.20.0.85: icmp_seq=1 ttl=57 time=19.8 ms
+64 bytes from 104.20.0.85: icmp_seq=2 ttl=57 time=12.3 ms
+64 bytes from 104.20.0.85: icmp_seq=3 ttl=57 time=18.5 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 12.344/16.894/19.822/3.264 ms
+
+Tue Jan 31 01:48:44 EST 2017
+PING www.ietf.org.cdn.cloudflare-dnssec.net (104.20.1.85) 56(84) bytes of data.
+64 bytes from 104.20.1.85: icmp_seq=1 ttl=57 time=11.1 ms
+64 bytes from 104.20.1.85: icmp_seq=2 ttl=57 time=14.2 ms
+64 bytes from 104.20.1.85: icmp_seq=3 ttl=57 time=13.1 ms
+
+--- www.ietf.org.cdn.cloudflare-dnssec.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 11.180/12.878/14.270/1.279 ms
